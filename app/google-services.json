@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337356369476",
+    "project_id": "utawalasportsacademy",
+    "storage_bucket": "utawalasportsacademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337356369476:android:b4acfc291bb44f9fef1611",
+        "android_client_info": {
+          "package_name": "com.example.utawalasportsclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFi1iTDhrhk7VO60d0DKt8Qc3g2LcjuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
